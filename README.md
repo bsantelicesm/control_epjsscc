@@ -1,2 +1,2 @@
 # control_epjsscc
- Software de control de personas del EPJ SSCC 2023.
+ Este repositorio contiene todos los scripts utilizados en el desarrollo del Encuentro Provincial de Jóvenes 2023 por la Congregación de los Sagrados Corazones, Provincia Chile-Argentina.
